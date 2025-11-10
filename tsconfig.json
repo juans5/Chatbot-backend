@@ -18,6 +18,6 @@
     "resolveJsonModule": true,
     // Skip checking declaration files in `node_modules` to speed up compilation.
     "skipLibCheck": true
-  }
-  // "exclude": ["drizzle.config.ts"]
+  },
+  "exclude": ["drizzle.config.ts"]
 }
